@@ -5,38 +5,37 @@
 # - name: Language
 #   weight: 5
 
-- name: TypeScript
+- name: Solidworks
   weight: 5
 
-- name: JavaScript
+- name: ABAQUS
   weight: 4
 
-- name: Python
+- name: 3D Printing
+  weight: 1
+
+- name: FEA
   weight: 2
 
-- name: HTML5
+- name: Machining
+  weight: 3
+
+- name: Heat Transfer
+  weight: 1
+
+- name: CNC
+  weight: 1
+
+- name: CAD
+  weight: 2
+
+- name: Thermodynamics
+  weight: 2
+
+- name: Aeronautics
   weight: 4
 
-- name: CSS3
-  weight: 3
-
-- name: SASS
-  weight: 3
-
-- name: Java
+- name: Fluid Mechanics
   weight: 1
 
-- name: Dart
-  weight: 1
 
-- name: Swift
-  weight: 1
-
-- name: Kotlin
-  weight: 1
-
-- name: C++
-  weight: 2
-
-- name: Ruby
-  weight: 2

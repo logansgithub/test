@@ -1,3 +1,4 @@
+# Soft SKILLS
 # > name: Name of your Dev Tool
 # > weight: Describes how good you know the tool - values from 1 up to 5
 #
@@ -5,32 +6,23 @@
 # - name: Git
 #   weight: 5
 
-- name: Git
-  weight: 5
-
-- name: Bash
+- name: Leadership
   weight: 3
 
-- name: Scrum
+- name: Public Speaking
   weight: 3
 
-- name: Travis CI
+- name: Budgeting
   weight: 1
 
-- name: Jenkins
+- name: Fund Management
   weight: 1
 
-- name: Chrome DevTools
+- name: Teamwork
   weight: 2
 
-- name: npm
+- name: Problem Solving
+  weight: 1
+
+- name: Communication
   weight: 2
-
-- name: gulp
-  weight: 4
-
-- name: VS Code
-  weight: 3
-
-- name: Postman
-  weight: 4

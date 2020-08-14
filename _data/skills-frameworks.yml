@@ -1,3 +1,4 @@
+# This will be my CS Skill Tree
 # > name: Name of your framework
 # > weight: Describes how good you know the framework - values from 1 up to 5
 #
@@ -5,29 +6,29 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: C++
   weight: 5
 
-- name: AngularJS
-  weight: 3
+- name: MATLAB
+  weight: 5
 
-- name: React
-  weight: 4
-
-- name: Node
-  weight: 1
-
-- name: Flutter
+- name: HTML
   weight: 2
 
-- name: Express
-  weight: 3
-
-- name: Django
+- name: Jekyll
   weight: 1
 
-- name: Spring
+- name: CSS
   weight: 2
 
-- name: Rails
+- name: OOP
+  weight: 2
+
+- name: Python
   weight: 4
+
+- name: Prolog
+  weight: 1
+
+- name: Simulink
+  weight: 2
